@@ -1,6 +1,7 @@
 This folder contains homework assignments from the course COSI 114a - Fundamentals of Natural Language Processing I
 
 Project descriptions:
+  
   HW1: Use the Counter and defaultdict classes to implement counters and probability distributions and write functions to extract and count n-grams.
   
   HW2: 1. Compute bigram and trigram probabilities given input sequences
